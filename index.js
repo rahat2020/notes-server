@@ -28,3 +28,4 @@ app.listen(port, () => {
     console.log(`listening port on http://localhost:${port}`)
 })
 
+// https://notes-server.up.railway.app/notes/get
